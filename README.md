@@ -11,10 +11,13 @@ Actualmente, estoy estudiando una tecnología en análisis y desarrollo de softw
 </div>
 
 <h1>Contacto</h1>
-  <img src="https://img.shields.io/badge/Gmail-da0000?logoColor=white&style=for-the-badge"
-    href="vanegitas.net@gmail.com">
-  <img src="https://img.shields.io/badge/LinkedIn-da0000?logoColor=white&style=for-the-badge"
-    href="https://www.linkedin.com/in/brayan-steven-vanegas-nu%C3%B1ez-9358a3255/">
+<a href="vanegitas.net@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-da0000?logoColor=white&style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/brayan-steven-vanegas-nu%C3%B1ez-9358a3255/">
+  <img src="https://img.shields.io/badge/LinkedIn-006ada?logoColor=white&style=for-the-badge">
+</a>
+
 
 <!--
 **Branstivenson/Branstivenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

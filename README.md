@@ -1,9 +1,12 @@
+<head>
+  <link href="Branstivenson/Style.css" rel="stylesheet" type="text/css">
+</head>
 <h1>About me</h1>
 Hola, soy Brayan Steven Vanegas Nuñez, un desarrollador web de Colombia que aspira ser fullstack.
 Actualmente, estoy estudiando una tecnología en análisis y desarrollo de software. 
 
 <h1>Mis habilidades</h1>
-<div style="background-color: #ff5733"></div>
+<div class="contenedor"></div>
 <!--
 **Branstivenson/Branstivenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

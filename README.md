@@ -1,6 +1,6 @@
 <h1>Sobre Mí</h1>
 <p>Hola, soy Brayan Steven Vanegas Nuñez, un desarrollador web de Colombia que aspira ser fullstack.</p>
-<p>Actualmente, estoy realizando las prácticas de mi tecnólogo en análisis y desarrollo de software, en una empresa en la cual hago las veces de un desarrollador backend y frontend.</p>
+<p>Actualmente, estoy en mi proceso de prácticas como tecnólogo en análisis y desarrollo de software en una empresa, donde desempeño funciones de desarrollador tanto en backend como en frontend</p>
 <h1>Mis habilidades</h1>
 <div style="display:flex" >
   <img src="https://img.shields.io/badge/Spring%20Boot-8ac725?logoColor=white&style=for-the-badge">

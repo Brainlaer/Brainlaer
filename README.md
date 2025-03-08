@@ -3,15 +3,17 @@
 <p>Actualmente, estoy en mi proceso de prácticas como tecnólogo en análisis y desarrollo de software en una empresa, donde desempeño funciones de desarrollador tanto en backend como en frontend</p>
 <h1>Mis habilidades</h1>
 <div style="display:flex" >
-  <img src="https://img.shields.io/badge/Spring%20Boot-8ac725?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/JAVA-25c79f?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/ANGULAR-c72525?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTML-7825c7?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-c78825?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nest%20Js-c72567?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/TypeScript-c7c025?logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Nest%20Js-EA2864?logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Spring%20Boot-93EC00?logoColor=white&style=for-the-badge">  
+  <img src="https://img.shields.io/badge/Gin-8ECBE7?logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/ANGULAR-BD002E?logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vue%203-42B883?logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/TypeScript-D73A6A?logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/JAVA-87BD2E?logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Golang-79D4FD?logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML-A61639?logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-912A43?logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/SQL-2577c7?logoColor=white&style=for-the-badge">
-
 </div>
 
 <h1>Contacto</h1>

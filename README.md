@@ -6,11 +6,11 @@ Me apasiona crear soluciones eficientes y escalables, y siempre estoy en busca d
 <div style="display:flex" >
   
   <h3>Lenguajes:</h3>
-  <img src="https://github.com/user-attachments/assets/963e7f7d-8f96-47d1-8be3-092db8bfc31e">
+  <img src="https://github.com/user-attachments/assets/9fe986dc-3c18-49c7-8b5c-642ad6bdc303">
 
   <h3>Frameworks y Librerias:</h3>
-  <img src="https://github.com/user-attachments/assets/38b02d20-6421-4ab1-a1b6-b808ad2a3852">  
-
+  <img src="https://github.com/user-attachments/assets/b17f0130-ab33-4979-90d7-29c0138c5c81">  
+  
   <h3>Base de Datos:</h3>
   <img src="https://github.com/user-attachments/assets/1031c68b-275c-47d2-8068-ce22fb759e61">
 

@@ -1,22 +1,25 @@
-<h1>Sobre Mí</h1>
-<p>Hola, soy Brayan Steven Vanegas Nuñez, un desarrollador web de Colombia que aspira ser fullstack.</p>
-<p>Actualmente, estoy en mi proceso de prácticas como tecnólogo en análisis y desarrollo de software en una empresa, donde desempeño funciones de desarrollador tanto en backend como en frontend</p>
-<h1>Mis habilidades</h1>
+<h1>Hola, soy Brayan Steven Vanegas Nuñez,</h1>
+<p>Un Desarrollador de Software de Colombia que aspira ser fullstack.</p>
+<p>Actualmente, cuento con 6 meses de experiencia en desarrollo, donde he trabajado tanto en el backend como en el frontend, adquiriendo habilidades en ambas áreas.
+Me apasiona crear soluciones eficientes y escalables, y siempre estoy en busca de nuevos retos para seguir aprendiendo y creciendo profesionalmente.</p>
+<h2>Mis habilidades</h2>
 <div style="display:flex" >
-  <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?logoColor=white&style=for-the-badge">  
-  <img src="https://img.shields.io/badge/JAVA-e76f00?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Gin-00add8?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Golang-00add8?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Nest%20Js-e0234e?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/ANGULAR-dd0031?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Vue%203-42b983?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTML-7825C7?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-C78825?logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/SQL-336791?logoColor=white&style=for-the-badge">
+  
+  <h3>🖥️ Lenguajes:</h3>
+  <img src="https://github.com/user-attachments/assets/963e7f7d-8f96-47d1-8be3-092db8bfc31e">
+
+  <h3>🏗️ Frameworks y Librerias:</h3>
+  <img src="https://github.com/user-attachments/assets/38b02d20-6421-4ab1-a1b6-b808ad2a3852">  
+
+  <h3>🌐 Base de Datos:</h3>
+  <img src="https://github.com/user-attachments/assets/1031c68b-275c-47d2-8068-ce22fb759e61">
+
+  <h3>☁ Servicios de la nube:</h3>
+  <img src="https://github.com/user-attachments/assets/147f6ea3-8d2c-4e6d-80fa-b835e2f9a7b4">
 </div>
 
 <h1>Contacto</h1>
+
 
 <a href="mailto:vanegitas.net@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-da0000?logoColor=white&style=for-the-badge">

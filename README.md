@@ -5,16 +5,16 @@ Me apasiona crear soluciones eficientes y escalables, y siempre estoy en busca d
 <h2>Mis habilidades</h2>
 <div style="display:flex" >
   
-  <h3>🖥️ Lenguajes:</h3>
+  <h3>Lenguajes:</h3>
   <img src="https://github.com/user-attachments/assets/963e7f7d-8f96-47d1-8be3-092db8bfc31e">
 
-  <h3>🏗️ Frameworks y Librerias:</h3>
+  <h3>Frameworks y Librerias:</h3>
   <img src="https://github.com/user-attachments/assets/38b02d20-6421-4ab1-a1b6-b808ad2a3852">  
 
-  <h3>🌐 Base de Datos:</h3>
+  <h3>Base de Datos:</h3>
   <img src="https://github.com/user-attachments/assets/1031c68b-275c-47d2-8068-ce22fb759e61">
 
-  <h3>☁ Servicios de la nube:</h3>
+  <h3>Servicios de la nube:</h3>
   <img src="https://github.com/user-attachments/assets/147f6ea3-8d2c-4e6d-80fa-b835e2f9a7b4">
 </div>
 
